@@ -7,3 +7,4 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
+facebook.com, 238992849084680, DIRECT, c3e20eee3f780d68
